@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+env/
+
+# Datasets and Cache (Do NOT upload 43GB of data to GitHub!)
+datasets/
+cache/
+*.npy
+*.tif
+*.csv
+
+# Model Checkpoints
+checkpoints/
+*.pth
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
