@@ -1,4 +1,4 @@
-# Feature Detection in Satellite Imagery using Deep Learning 🌍🛰️
+# Feature Detection in Satellite Imagery using Deep Learning 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange.svg)
